@@ -1,9 +1,10 @@
-  const getTotalIsles = function (grid) {
-
-
-    // write your code here
-
+  const getTotalIsles = function (grid) 
+  {
+    let ans = 0;
+    let l = grid.length;
+    
   };
+    // write your code here
   
   module.exports = getTotalIsles;
 
